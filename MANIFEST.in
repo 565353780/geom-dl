@@ -1,4 +1,0 @@
-include LICENSE
-include DESCRIPTION.rst
-include tests/*
-include requirements.txt
