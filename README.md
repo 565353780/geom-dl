@@ -9,7 +9,9 @@ https://github.com/orbingol/NURBS-Python.git
 ## Setup
 
 ```bash
-pip install -e .
+conda create -n geom python=3.10
+conda activate geom
+./setup.sh
 ```
 
 ## Enjoy it~
